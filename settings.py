@@ -11,7 +11,7 @@ DATABASES = {
 }
 
 INSTALLED_APPS = (
-    'standalone',
+    'crud',
 )
 
 SECRET_KEY = 'SECRET KEY for this Django Project'
